@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89a7ee50.css",
+    "main.js": "/static/js/main.24b65f55.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/toa-heftiba-FV3GConVSss-unsplash.jpg": "/static/media/toa-heftiba-FV3GConVSss-unsplash.b1b208686ec301813786.jpg",
+    "index.html": "/index.html",
+    "main.89a7ee50.css.map": "/static/css/main.89a7ee50.css.map",
+    "main.24b65f55.js.map": "/static/js/main.24b65f55.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a7ee50.css",
+    "static/js/main.24b65f55.js"
+  ]
+}
